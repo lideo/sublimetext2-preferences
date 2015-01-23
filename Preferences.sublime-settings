@@ -17,6 +17,6 @@
     "line_padding_bottom": 1,
     "line_padding_top": 1,
     "word_wrap": true,
-    "save_on_focus_lost": true,
+    "save_on_focus_lost": false,
     "match_brackets_angle": true
 }
