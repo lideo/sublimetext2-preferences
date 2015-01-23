@@ -1,22 +1,33 @@
 {
-    "bold_folder_labels": true,
-    "color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
-    "detect_slow_plugins": false,
-    "font_size": 16.0,
-    "open_files_in_new_window": false,
-    "scroll_past_end": true,
-    "spell_check": true,
-    "tab_size": 4,
-    "translate_tabs_to_spaces": true,
-    "rulers":
-    [
-        80
-    ],
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
-    "line_padding_bottom": 4,
-    "line_padding_top": 4,
-    "word_wrap": true,
-    "save_on_focus_lost": false,
-    "match_brackets_angle": true
+	"bold_folder_labels": true,
+	"theme": "Spacegray.sublime-theme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"detect_slow_plugins": false,
+	"font_size": 16.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"match_brackets_angle": true,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": false,
+	"scroll_past_end": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_large": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_sidebar_font_xlarge": true,
+	"spacegray_sidebar_tree_normal": true
 }
